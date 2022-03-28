@@ -1,6 +1,5 @@
 import requests
 from twilio.rest import Client
-from newsapi import NewsApiClient
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla"
 
